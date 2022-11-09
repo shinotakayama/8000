@@ -1,5 +1,3 @@
-# Quantitative Skills for Economics
-
 <body>
 <p align="center"><span style="font-size: x-large;">Quantitative Skills for Economics</span></p>
 <p align="center"><span style="font-size: x-large;">Some Slides and Notes</span></p>
